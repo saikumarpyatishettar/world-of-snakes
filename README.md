@@ -1,114 +1,93 @@
-# World of Snakes
+# 🐍 World of Snakes
 
-**World of Snakes** is a classic Snake game built with **Python and Pygame**, designed with a custom interface, home screen, background visuals, scoring system, and high-score tracking.
+### A futuristic take on the classic Snake game.
 
-The project was created as a hands-on way to explore Python game development and understand how different programming concepts work together to create an interactive application.
+[![Play Game](https://img.shields.io/badge/🎮%20Play%20Game-00C853?style=for-the-badge)](https://saikumarpyatishettar.github.io/world-of-snakes/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat-square)](https://www.pygame.org/)
+[![GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=flat-square\&logo=github)](https://pages.github.com/)
 
-## About the Game
+---
 
-The goal is simple: control the snake, collect food, grow longer, and achieve the highest score possible without colliding with yourself or the boundaries.
+## 🎮 About
 
-As the snake grows, controlling it becomes more challenging, making the game progressively more difficult and engaging.
+**World of Snakes** is a futuristic Snake game built with **Python and Pygame**.
 
-## Features
+Collect food, grow your snake, use power-ups, beat your high score, and survive as the game gets faster.
 
-* Custom home screen
-* Smooth keyboard-controlled movement
-* Randomly generated food
-* Real-time score tracking
-* Persistent high-score system
-* Game-over screen
-* Custom background
-* Background music support
-* Simple and user-friendly interface
+> ⚡ Simple gameplay
+> 🌌 Futuristic design
+> 🏆 Endless challenge
 
-## Technologies
+---
+
+## ✨ Features
+
+* 🐍 Classic Snake gameplay
+* 🍎 Food and snake growth
+* ⚡ Speed Boost power-up
+* 🛡️ Shield power-up
+* 💎 2X Bonus power-up
+* ✨ Particle effects
+* 📈 Progressive levels
+* 🏆 High-score system
+* 🔊 Sound effects
+* ⏸️ Pause and resume
+* 🌐 Play directly in your browser
+
+---
+
+## 🎮 Controls
+
+| Key       | Action         |
+| --------- | -------------- |
+| `↑ ↓ ← →` | Move           |
+| `W A S D` | Move           |
+| `P`       | Pause / Resume |
+| `ENTER`   | Restart        |
+
+---
+
+## 🛠️ Built With
 
 * **Python**
 * **Pygame**
+* **Pygbag**
+* **GitHub Actions**
+* **GitHub Pages**
 
-## Controls
+---
 
-| Key         | Action     |
-| ----------- | ---------- |
-| Up Arrow    | Move Up    |
-| Down Arrow  | Move Down  |
-| Left Arrow  | Move Left  |
-| Right Arrow | Move Right |
-| Enter       | Start Game |
-| Escape      | Exit       |
+## 🌐 Play Online
 
-## Getting Started
+### 🎮 [PLAY WORLD OF SNAKES](https://saikumarpyatishettar.github.io/world-of-snakes/)
 
-### Clone the Repository
+No installation required.
 
-```bash
-git clone https://github.com/saikumarpyatishettar/world-of-snakes.git
-```
+Open the game, start playing, and try to beat the high score!
 
-### Open the Project
-
-```bash
-cd world-of-snakes
-```
-
-### Install Pygame
-
-```bash
-pip install pygame
-```
-
-### Run the Game
-
-```bash
-python main.py
-```
-
-## Project Structure
-
-```text
-World-of-Snakes/
-│
-├── main.py
-├── backgroundimg.png
-├── hiscore.txt
-├── background_music.mp3
-└── README.md
-```
-
-The exact files may vary depending on the current version of the project.
-
-## What I Learned
-
-Building this project helped me gain practical experience with:
-
-* Python programming
-* Pygame and game development
-* Game loops
-* Event handling
-* Keyboard input
-* Collision detection
-* Random number generation
-* File handling
-* Score management
-* Working with images and audio
-* Git and GitHub
-
-## Future Improvements
-
-Some features I plan to explore in future versions:
-
-* Multiple difficulty levels
-* Different snake themes and skins
-* Sound effects
-* Pause and resume functionality
-* Leaderboard system
-* Multiple game modes
-* Improved animations and visual effects
+---
 
 
-### Repository
+---
 
-[World of Snakes](https://github.com/saikumarpyatishettar/world-of-snakes)
+## 🚀 Future Plans
 
-If you find the project interesting, feel free to explore the code and follow the project as it continues to improve.
+* 🏆 Global leaderboard
+* 🎨 More themes
+* 🐍 Custom snake skins
+* 🎵 Improved audio
+* 🌍 New game worlds
+* 👥 Multiplayer mode
+
+
+
+<div align="center">
+
+### ⭐ Enjoyed the game?
+
+Give the repository a star and try to beat the high score!
+
+**Play • Build • Learn • Improve 🚀**
+
+</div>
